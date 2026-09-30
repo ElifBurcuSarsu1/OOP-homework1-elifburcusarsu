@@ -20,10 +20,13 @@ The conversion uses this formula:
 F = C × 9 / 5 + 32
 
 ## Example Output
-
+'''
 Hello C#
+'''
 Name: Elif Burcu Sarsu
+'''
 Department: Computer Engineering
+'''
 Year: 2
 
 Current date and time:
