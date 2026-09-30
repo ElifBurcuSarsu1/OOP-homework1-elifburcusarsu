@@ -23,17 +23,23 @@ F = C × 9 / 5 + 32
 ```
 Hello C#
 ```
+```
 Name: Elif Burcu Sarsu
+```
 ```
 Department: Computer Engineering
 ```
+```
 Year: 2
+```
 ```
 Current date and time:
 30.09.2026 19:51:11
-
+```
+```
 Enter temperature in Celsius: 28
 Temperature in Fahrenheit: 82,4
+```
 
 ## How to Run
 
