@@ -11,7 +11,7 @@ Console.WriteLine(DateTime.Now);
 
 Console.WriteLine();
 
-Console.Write("Enter temperature in Celsius: ");
+Console.WriteLine("Enter temperature in Celsius: ");
 double celsius = Convert.ToDouble(Console.ReadLine());
 
 double fahrenheit = celsius * 9 / 5 + 32;
